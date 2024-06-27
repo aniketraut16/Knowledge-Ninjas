@@ -6,17 +6,17 @@ function Home() {
   const domainList = [
     {
       name: "Geography",
-      ref: "#",
+      ref: "/games/geography",
       img: "/geo.png",
     },
     {
       name: "Technology",
-      ref: "#",
+      ref: "/games/tech",
       img: "/tech.png",
     },
     {
       name: "General Knowledge",
-      ref: "#",
+      ref: "/games/gk",
       img: "/gk.png",
     },
   ];

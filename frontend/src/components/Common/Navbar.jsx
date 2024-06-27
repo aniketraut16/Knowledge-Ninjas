@@ -1,5 +1,5 @@
 import "./Navbar.css";
-import { Outlet, Link } from "react-router-dom";
+import { Outlet, Link, useNavigate } from "react-router-dom";
 import {
   CircleUserRound,
   House,
@@ -10,6 +10,8 @@ import { useTma } from "../../context/tmaProvider";
 
 function Navbar() {
   const { user } = useTma();
+
+  const navigator = useNavigate();
 
   const size = 30;
   return (
@@ -33,7 +35,12 @@ function Navbar() {
           <TvMinimalPlay size={size} />
         </Link>
         <Link>
-          <SquareArrowLeft size={size} />
+          <SquareArrowLeft
+            size={size}
+            onClick={() => {
+              navigator(-1);
+            }}
+          />
         </Link>
       </nav>
     </>

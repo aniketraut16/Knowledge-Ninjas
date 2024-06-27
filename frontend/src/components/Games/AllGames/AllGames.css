@@ -1,0 +1,61 @@
+.AllGames {
+  padding: calc(5vh + 10px) 0px;
+}
+.AllGames div {
+  width: 90%;
+  margin: 20px auto;
+}
+.domain-intro {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.domain-intro img {
+  width: 100%;
+}
+
+.domain-intro h2 {
+  z-index: 2;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  color: white;
+  font-size: 34px;
+  transform: translate(-50%, -50%);
+}
+.line {
+  width: 100%;
+  height: 4px;
+  background-color: white;
+  margin: 30px 0px;
+}
+.domain-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+.domain-details span p {
+  color: white;
+  margin: 0px;
+}
+.gamesList a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 0px;
+  text-decoration: none;
+}
+
+.gamesList a p {
+  margin: 0px 5vh;
+  color: white;
+  font-size: 28px;
+}
+
+.gamesList a:nth-child(2n) {
+  flex-direction: row-reverse;
+}

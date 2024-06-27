@@ -1,5 +1,6 @@
+import Loader from "./components/Common/Loader";
 import Navbar from "./components/Common/Navbar";
-import GeographyGames from "./components/Games/AllGames/GeographyGames";
+import AllGamesTemplate from "./components/Games/AllGames/AllGamesTemplate";
 import GuessTheCountryByMap from "./components/Games/OneGame/GuessTheCountryByMap";
 import Home from "./components/Home/Home";
 import CubesSection from "./components/KnowledgeCubes/CubesSection";
@@ -9,9 +10,9 @@ import { Routes, Route } from "react-router-dom";
 function App() {
   const { user, isLoading, isError } = useTma();
 
-  if (isLoading) {
-    return <div>Loading...</div>;
-  }
+  // if (!isLoading) {
+  //   return <Loader />;
+  // }
 
   // if (isError) {
   //   return <div>Error fetching user data</div>;
@@ -19,13 +20,14 @@ function App() {
 
   return (
     <>
+      {isLoading && <Loader />}
       <Routes>
         <Route path="/" element={<Navbar />}>
           <Route path="" element={<Home />} />
           <Route path="feed" element={<CubesSection />} />
-          <Route path="games/geography" element={<GeographyGames />} />
+          <Route path="games/:domain" element={<AllGamesTemplate />} />
           <Route
-            path="games/geography/guess-the-country-by-map"
+            path="game/geography/guess-the-country-by-map"
             element={<GuessTheCountryByMap />}
           />
         </Route>

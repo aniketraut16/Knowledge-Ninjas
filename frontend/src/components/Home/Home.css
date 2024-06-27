@@ -2,9 +2,14 @@ body {
   margin: 0%;
   padding: 0%;
   box-sizing: border-box;
+  background-color: #030625;
+}
+body * {
+  font-family: "Khand", sans-serif;
+  font-weight: 600;
+  font-style: normal;
 }
 .Home {
-  background-color: #030625;
   padding: calc(5vh + 10px) 0px;
 }
 .Home > h2 {
