@@ -1,0 +1,1638 @@
+{
+  "data": {
+    "Andorra": {
+      "name": "Andorra",
+      "latitude": 42.546245,
+      "longitude": 1.601554,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/0c/f9/d1/ad-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ad-flag.jpg"
+    },
+    "United Arab Emirates": {
+      "name": "United Arab Emirates",
+      "latitude": 23.424076,
+      "longitude": 53.847818,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/18/c7/0e/ae-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/upload/f4/a6/ab/uae-flag.png"
+    },
+    "Afghanistan": {
+      "name": "Afghanistan",
+      "latitude": 33.93911,
+      "longitude": 67.709953,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/9a/2a/47/af-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/af-flag.jpg"
+    },
+    "Antigua and Barbuda": {
+      "name": "Antigua and Barbuda",
+      "latitude": 17.060816,
+      "longitude": -61.796428,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/e0/db/b7/ag-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ag-flag.jpg"
+    },
+    "Anguilla": {
+      "name": "Anguilla",
+      "latitude": 18.220554,
+      "longitude": -63.068615,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/4f/d5/71/ai-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ai-flag.jpg"
+    },
+    "Albania": {
+      "name": "Albania",
+      "latitude": 41.153332,
+      "longitude": 20.168331,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/a5/ea/4c/al-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/al-flag.jpg"
+    },
+    "Armenia": {
+      "name": "Armenia",
+      "latitude": 40.069099,
+      "longitude": 45.038189,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/e8/a5/a2/am-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/am-flag.jpg"
+    },
+    "Angola": {
+      "name": "Angola",
+      "latitude": -11.202692,
+      "longitude": 17.873887,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/94/92/bf/ao-04.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ao-flag.jpg"
+    },
+    "Argentina": {
+      "name": "Argentina",
+      "latitude": -38.416097,
+      "longitude": -63.616672,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/65/b0/58/ar-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ar-flag.jpg"
+    },
+    "American Samoa": {
+      "name": "American Samoa",
+      "latitude": -14.270972,
+      "longitude": -170.132217,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/25/a3/f7/as-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/as-flag.jpg"
+    },
+    "Austria": {
+      "name": "Austria",
+      "latitude": 47.516231,
+      "longitude": 14.550072,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/35/fe/ef/at-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/at-flag.jpg"
+    },
+    "Australia": {
+      "name": "Australia",
+      "latitude": -25.274398,
+      "longitude": 133.775136,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/d8/e7/0e/au-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/au-flag.jpg"
+    },
+    "Aruba": {
+      "name": "Aruba",
+      "latitude": 12.52111,
+      "longitude": -69.968338,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/fc/71/a7/aw-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/aw-flag.jpg"
+    },
+    "Azerbaijan": {
+      "name": "Azerbaijan",
+      "latitude": 40.143105,
+      "longitude": 47.576927,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/e4/d5/0b/az-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/az-flag.jpg"
+    },
+    "Bosnia and Herzegovina": {
+      "name": "Bosnia and Herzegovina",
+      "latitude": 43.915886,
+      "longitude": 17.679076,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/25/95/0e/ba-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ba-flag.jpg"
+    },
+    "Barbados": {
+      "name": "Barbados",
+      "latitude": 13.193887,
+      "longitude": -59.543198,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/c8/2b/c7/bb-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/bb-flag.jpg"
+    },
+    "Bangladesh": {
+      "name": "Bangladesh",
+      "latitude": 23.684994,
+      "longitude": 90.356331,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/74/83/a2/bd-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/bd-flag.jpg"
+    },
+    "Belgium": {
+      "name": "Belgium",
+      "latitude": 50.503887,
+      "longitude": 4.469936,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/97/89/63/be-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/be-flag.jpg"
+    },
+    "Burkina Faso": {
+      "name": "Burkina Faso",
+      "latitude": 12.238333,
+      "longitude": -1.561593,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/ea/bd/5b/bf-04.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/bf-flag.jpg"
+    },
+    "Bulgaria": {
+      "name": "Bulgaria",
+      "latitude": 42.733883,
+      "longitude": 25.48583,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/82/86/e2/bg-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/bg-flag.jpg"
+    },
+    "Bahrain": {
+      "name": "Bahrain",
+      "latitude": 25.930414,
+      "longitude": 50.637772,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/f1/93/f9/bh-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/bh-flag.jpg"
+    },
+    "Burundi": {
+      "name": "Burundi",
+      "latitude": -3.373056,
+      "longitude": 29.918886,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/11/d2/13/bi-04.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/bi-flag.jpg"
+    },
+    "Benin": {
+      "name": "Benin",
+      "latitude": 9.30769,
+      "longitude": 2.315834,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/8b/87/eb/bj-04.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/bj-flag.jpg"
+    },
+    "Bermuda": {
+      "name": "Bermuda",
+      "latitude": 32.321384,
+      "longitude": -64.75737,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/db/81/dd/bm-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/bm-flag.jpg"
+    },
+    "Bolivia": {
+      "name": "Bolivia",
+      "latitude": -16.290154,
+      "longitude": -63.588653,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/b2/1f/3b/bo-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/bo-flag.jpg"
+    },
+    "Brazil": {
+      "name": "Brazil",
+      "latitude": -14.235004,
+      "longitude": -51.92528,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/7a/ae/2b/br-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/br-flag.jpg"
+    },
+    "Bahamas": {
+      "name": "Bahamas",
+      "latitude": 25.03428,
+      "longitude": -77.39628,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/55/8c/da/bs-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/bs-flag.jpg"
+    },
+    "Bhutan": {
+      "name": "Bhutan",
+      "latitude": 27.514162,
+      "longitude": 90.433601,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/f0/04/6c/bt-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/bt-flag.jpg"
+    },
+    "Botswana": {
+      "name": "Botswana",
+      "latitude": -22.328474,
+      "longitude": 24.684866,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/05/ea/0a/botswana-01.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/bw-flag.jpg"
+    },
+    "Belarus": {
+      "name": "Belarus",
+      "latitude": 53.709807,
+      "longitude": 27.953389,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/9d/8a/cf/by-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/by-flag.jpg"
+    },
+    "Belize": {
+      "name": "Belize",
+      "latitude": 17.189877,
+      "longitude": -88.49765,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/47/1e/6d/bz-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/bz-flag.jpg"
+    },
+    "Canada": {
+      "name": "Canada",
+      "latitude": 56.130366,
+      "longitude": -106.346771,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/82/38/b7/ca-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ca-flag.jpg"
+    },
+    "Central African Republic": {
+      "name": "Central African Republic",
+      "latitude": 6.611111,
+      "longitude": 20.939444,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/8c/18/03/cf-04.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/cf-flag.jpg"
+    },
+    "Switzerland": {
+      "name": "Switzerland",
+      "latitude": 46.818188,
+      "longitude": 8.227512,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/27/6f/51/ch-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ch-flag.png"
+    },
+    "Cook Islands": {
+      "name": "Cook Islands",
+      "latitude": -21.236736,
+      "longitude": -159.777671,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/f0/be/2f/ck-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ck-flag.jpg"
+    },
+    "Chile": {
+      "name": "Chile",
+      "latitude": -35.675147,
+      "longitude": -71.542969,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/94/ba/75/cl-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/cl-flag.jpg"
+    },
+    "Cameroon": {
+      "name": "Cameroon",
+      "latitude": 7.369722,
+      "longitude": 12.354722,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/b5/84/95/cm-04.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/cm-flag.jpg"
+    },
+    "China": {
+      "name": "China",
+      "latitude": 35.86166,
+      "longitude": 104.195397,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/ee/23/62/cn-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/cn-flag.jpg"
+    },
+    "Colombia": {
+      "name": "Colombia",
+      "latitude": 4.570868,
+      "longitude": -74.297333,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/04/79/7a/outline-2k.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/co-flag.jpg"
+    },
+    "Costa Rica": {
+      "name": "Costa Rica",
+      "latitude": 9.748917,
+      "longitude": -83.753428,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/60/58/2b/cr-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/cr-flag.jpg"
+    },
+    "Cuba": {
+      "name": "Cuba",
+      "latitude": 21.521757,
+      "longitude": -77.781167,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/fa/fe/3f/cu-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/cu-flag.jpg"
+    },
+    "Cape Verde": {
+      "name": "Cape Verde",
+      "latitude": 16.002082,
+      "longitude": -24.013197,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/25/71/84/cv-04.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/cv-flag.jpg"
+    },
+    "Cyprus": {
+      "name": "Cyprus",
+      "latitude": 35.126413,
+      "longitude": 33.429859,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/13/6b/b0/cy-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/cy-flag.jpg"
+    },
+    "Czech Republic": {
+      "name": "Czech Republic",
+      "latitude": 49.817492,
+      "longitude": 15.472962,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/cf/c1/48/cz-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/cz-flag.jpg"
+    },
+    "Germany": {
+      "name": "Germany",
+      "latitude": 51.165691,
+      "longitude": 10.451526,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/39/71/55/de-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/de-flag.jpg"
+    },
+    "Djibouti": {
+      "name": "Djibouti",
+      "latitude": 11.825138,
+      "longitude": 42.590275,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/d6/f2/54/dj-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/dj-flag.jpg"
+    },
+    "Denmark": {
+      "name": "Denmark",
+      "latitude": 56.26392,
+      "longitude": 9.501785,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/48/bb/01/dk-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/dk-flag.jpg"
+    },
+    "Dominica": {
+      "name": "Dominica",
+      "latitude": 15.414999,
+      "longitude": -61.370976,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/09/2d/58/dm-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/dm-flag.jpg"
+    },
+    "Dominican Republic": {
+      "name": "Dominican Republic",
+      "latitude": 18.735693,
+      "longitude": -70.162651,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/1f/b0/9d/do-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/do-flag.jpg"
+    },
+    "Algeria": {
+      "name": "Algeria",
+      "latitude": 28.033886,
+      "longitude": 1.659626,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/ae/e7/24/dz-04-2.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/dz-flag.jpg"
+    },
+    "Ecuador": {
+      "name": "Ecuador",
+      "latitude": -1.831239,
+      "longitude": -78.183406,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/27/6d/ef/ec-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ec-flag.jpg"
+    },
+    "Estonia": {
+      "name": "Estonia",
+      "latitude": 58.595272,
+      "longitude": 25.013607,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/a8/1e/d6/ee-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ee-flag.jpg"
+    },
+    "Egypt": {
+      "name": "Egypt",
+      "latitude": 26.820553,
+      "longitude": 30.802498,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/91/fb/ea/eg-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/eg-flag.jpg"
+    },
+    "Western Sahara": {
+      "name": "Western Sahara",
+      "latitude": 24.215527,
+      "longitude": -12.885834,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/4c/26/86/eh-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/eh-flag.jpg"
+    },
+    "Eritrea": {
+      "name": "Eritrea",
+      "latitude": 15.179384,
+      "longitude": 39.782334,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/ff/fd/65/er-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/er-flag.jpg"
+    },
+    "Spain": {
+      "name": "Spain",
+      "latitude": 40.463667,
+      "longitude": -3.74922,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/af/b1/30/es-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/es-flag.jpg"
+    },
+    "Ethiopia": {
+      "name": "Ethiopia",
+      "latitude": 9.145,
+      "longitude": 40.489673,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/8d/b6/79/et-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/et-flag.jpg"
+    },
+    "Finland": {
+      "name": "Finland",
+      "latitude": 61.92411,
+      "longitude": 25.748151,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/17/2e/06/fi-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/fi-flag.jpg"
+    },
+    "Fiji": {
+      "name": "Fiji",
+      "latitude": -16.578193,
+      "longitude": 179.414413,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/3f/e0/9c/fj-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/fj-flag.jpg"
+    },
+    "France": {
+      "name": "France",
+      "latitude": 46.227638,
+      "longitude": 2.213749,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/84/d6/4f/fr-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/fr-flag.jpg"
+    },
+    "Gabon": {
+      "name": "Gabon",
+      "latitude": -0.803689,
+      "longitude": 11.609444,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/e0/76/4a/ga-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ga-flag.jpg"
+    },
+    "United Kingdom": {
+      "name": "United Kingdom",
+      "latitude": 55.378051,
+      "longitude": -3.435973,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/66/fb/ff/uk-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/uk-flag.jpg"
+    },
+    "Grenada": {
+      "name": "Grenada",
+      "latitude": 12.262776,
+      "longitude": -61.604171,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/18/30/56/gd-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/gd-flag.jpg"
+    },
+    "Georgia": {
+      "name": "Georgia",
+      "latitude": 42.315407,
+      "longitude": 43.356892,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/09/a1/bb/ge-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ge-flag.jpg"
+    },
+    "French Guiana": {
+      "name": "French Guiana",
+      "latitude": 3.933889,
+      "longitude": -53.125782,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/82/c8/aa/gf-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/gf-flag.jpg"
+    },
+    "Ghana": {
+      "name": "Ghana",
+      "latitude": 7.946527,
+      "longitude": -1.023194,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/01/bf/92/gh-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/gh-flag.jpg"
+    },
+    "Gibraltar": {
+      "name": "Gibraltar",
+      "latitude": 36.137741,
+      "longitude": -5.345374,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/a9/49/36/gi-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/gi-flag.jpg"
+    },
+    "Greenland": {
+      "name": "Greenland",
+      "latitude": 71.706936,
+      "longitude": -42.604303,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/41/bb/08/gl-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/gl-flag.jpg"
+    },
+    "Gambia": {
+      "name": "Gambia",
+      "latitude": 13.443182,
+      "longitude": -15.310139,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/fb/06/a4/gm-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/gm-flag.jpg"
+    },
+    "Guinea": {
+      "name": "Guinea",
+      "latitude": 9.945587,
+      "longitude": -9.696645,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/4a/8a/40/gn-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/gn-flag.jpg"
+    },
+    "Guadeloupe": {
+      "name": "Guadeloupe",
+      "latitude": 16.995971,
+      "longitude": -62.067641,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/48/bb/49/gp-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/upload/21/fd/63/1280px-flag-of-france-svg-1.png"
+    },
+    "Equatorial Guinea": {
+      "name": "Equatorial Guinea",
+      "latitude": 1.650801,
+      "longitude": 10.267895,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/f2/8d/68/gq-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/gq-flag.jpg"
+    },
+    "Greece": {
+      "name": "Greece",
+      "latitude": 39.074208,
+      "longitude": 21.824312,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/d3/91/54/gr-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/gr-flag.jpg"
+    },
+    "Guatemala": {
+      "name": "Guatemala",
+      "latitude": 15.783471,
+      "longitude": -90.230759,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/61/63/bd/gt-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/gt-flag.jpg"
+    },
+    "Guam": {
+      "name": "Guam",
+      "latitude": 13.444304,
+      "longitude": 144.793731,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/8a/ac/60/gu-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/gu-flag.jpg"
+    },
+    "Guinea-Bissau": {
+      "name": "Guinea-Bissau",
+      "latitude": 11.803749,
+      "longitude": -15.180413,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/87/6b/b9/gw-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/gw-flag.jpg"
+    },
+    "Guyana": {
+      "name": "Guyana",
+      "latitude": 4.860416,
+      "longitude": -58.93018,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/53/2c/1e/gy-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/gy-flag.jpg"
+    },
+    "Hong Kong": {
+      "name": "Hong Kong",
+      "latitude": 22.396428,
+      "longitude": 114.109497,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/1e/6c/0b/hk-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/hk-flag.jpg"
+    },
+    "Honduras": {
+      "name": "Honduras",
+      "latitude": 15.199999,
+      "longitude": -86.241905,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/18/2f/99/hn-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/hn-flag.jpg"
+    },
+    "Croatia": {
+      "name": "Croatia",
+      "latitude": 45.1,
+      "longitude": 15.2,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/1b/81/f4/hr-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/hr-flag.jpg"
+    },
+    "Haiti": {
+      "name": "Haiti",
+      "latitude": 18.971187,
+      "longitude": -72.285215,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/70/4c/9c/ht-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ht-flag.jpg"
+    },
+    "Hungary": {
+      "name": "Hungary",
+      "latitude": 47.162494,
+      "longitude": 19.503304,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/f4/a0/4a/hu-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/hu-flag.jpg"
+    },
+    "Indonesia": {
+      "name": "Indonesia",
+      "latitude": -0.789275,
+      "longitude": 113.921327,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/60/a2/ce/id-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/id-flag.jpg"
+    },
+    "Ireland": {
+      "name": "Ireland",
+      "latitude": 53.41291,
+      "longitude": -8.24389,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/f6/b7/c3/ie-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ie-flag.jpg"
+    },
+    "India": {
+      "name": "India",
+      "latitude": 20.593684,
+      "longitude": 78.96288,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/ed/95/3f/in-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/in-flag.jpg"
+    },
+    "Iraq": {
+      "name": "Iraq",
+      "latitude": 33.223191,
+      "longitude": 43.679291,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/25/d4/ae/iq-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/iq-flag.jpg"
+    },
+    "Iran": {
+      "name": "Iran",
+      "latitude": 32.427908,
+      "longitude": 53.688046,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/3c/61/05/ir-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ir-flag.jpg"
+    },
+    "Iceland": {
+      "name": "Iceland",
+      "latitude": 64.963051,
+      "longitude": -19.020835,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/2f/c2/46/is-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/is-flag.jpg"
+    },
+    "Italy": {
+      "name": "Italy",
+      "latitude": 41.87194,
+      "longitude": 12.56738,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/57/82/4d/it-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/it-flag.jpg"
+    },
+    "Jamaica": {
+      "name": "Jamaica",
+      "latitude": 18.109581,
+      "longitude": -77.297508,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/9e/8a/f0/jm-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/jm-flag.jpg"
+    },
+    "Jordan": {
+      "name": "Jordan",
+      "latitude": 30.585164,
+      "longitude": 36.238414,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/49/4a/c3/jo-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/jo-flag.jpg"
+    },
+    "Japan": {
+      "name": "Japan",
+      "latitude": 36.204824,
+      "longitude": 138.252924,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/58/1e/06/jp-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/jp-flag.jpg"
+    },
+    "Kenya": {
+      "name": "Kenya",
+      "latitude": -0.023559,
+      "longitude": 37.906193,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/53/1b/65/ke-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ke-flag.jpg"
+    },
+    "Kyrgyzstan": {
+      "name": "Kyrgyzstan",
+      "latitude": 41.20438,
+      "longitude": 74.766098,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/52/7d/d5/kg-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/kg-flag.jpg"
+    },
+    "Cambodia": {
+      "name": "Cambodia",
+      "latitude": 12.565679,
+      "longitude": 104.990963,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/85/3a/6d/kh-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/kh-flag.jpg"
+    },
+    "Kiribati": {
+      "name": "Kiribati",
+      "latitude": -3.370417,
+      "longitude": -168.734039,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/b9/df/22/ki-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ki-flag.jpg"
+    },
+    "Comoros": {
+      "name": "Comoros",
+      "latitude": -11.875001,
+      "longitude": 43.872219,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/d4/1f/0e/km-04.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/km-flag.jpg"
+    },
+    "Saint Kitts and Nevis": {
+      "name": "Saint Kitts and Nevis",
+      "latitude": 17.357822,
+      "longitude": -62.782998,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/40/bc/75/kn-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/kn-flag.jpg"
+    },
+    "North Korea": {
+      "name": "North Korea",
+      "latitude": 40.339852,
+      "longitude": 127.510093,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/0f/25/be/kp-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/kp-flag.jpg"
+    },
+    "South Korea": {
+      "name": "South Korea",
+      "latitude": 35.907757,
+      "longitude": 127.766922,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/a8/d4/36/kr-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/kr-flag.jpg"
+    },
+    "Kuwait": {
+      "name": "Kuwait",
+      "latitude": 29.31166,
+      "longitude": 47.481766,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/c6/3b/4d/kw-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/kw-flag.jpg"
+    },
+    "Cayman Islands": {
+      "name": "Cayman Islands",
+      "latitude": 19.513469,
+      "longitude": -80.566956,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/18/b3/b3/ky-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ky-flag.jpg"
+    },
+    "Kazakhstan": {
+      "name": "Kazakhstan",
+      "latitude": 48.019573,
+      "longitude": 66.923684,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/99/6d/4b/kz-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/kz-flag.jpg"
+    },
+    "Lebanon": {
+      "name": "Lebanon",
+      "latitude": 33.854721,
+      "longitude": 35.862285,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/f9/01/ce/artboard-4.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/lb-flag.jpg"
+    },
+    "Saint Lucia": {
+      "name": "Saint Lucia",
+      "latitude": 13.909444,
+      "longitude": -60.978893,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/d7/c6/54/lc-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/lc-flag.jpg"
+    },
+    "Liechtenstein": {
+      "name": "Liechtenstein",
+      "latitude": 47.166,
+      "longitude": 9.555373,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/54/10/f3/li-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/li-flag.jpg"
+    },
+    "Sri Lanka": {
+      "name": "Sri Lanka",
+      "latitude": 7.873054,
+      "longitude": 80.771797,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/e8/01/b5/lk-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/lk-flag.jpg"
+    },
+    "Liberia": {
+      "name": "Liberia",
+      "latitude": 6.428055,
+      "longitude": -9.429499,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/3c/82/8b/lr-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/lr-flag.jpg"
+    },
+    "Lesotho": {
+      "name": "Lesotho",
+      "latitude": -29.609988,
+      "longitude": 28.233608,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/21/47/4b/ls-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ls-flag.jpg"
+    },
+    "Lithuania": {
+      "name": "Lithuania",
+      "latitude": 55.169438,
+      "longitude": 23.881275,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/9a/13/e2/lt-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/lt-flag.jpg"
+    },
+    "Luxembourg": {
+      "name": "Luxembourg",
+      "latitude": 49.815273,
+      "longitude": 6.129583,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/fd/18/ed/lu-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/lu-flag.jpg"
+    },
+    "Latvia": {
+      "name": "Latvia",
+      "latitude": 56.879635,
+      "longitude": 24.603189,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/af/41/7d/lv-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/lv-flag.jpg"
+    },
+    "Libya": {
+      "name": "Libya",
+      "latitude": 26.3351,
+      "longitude": 17.228331,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/5f/8c/45/ly-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ly-flag.jpg"
+    },
+    "Morocco": {
+      "name": "Morocco",
+      "latitude": 31.791702,
+      "longitude": -7.09262,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/2e/3e/1b/ma-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ma-flag.jpg"
+    },
+    "Monaco": {
+      "name": "Monaco",
+      "latitude": 43.750298,
+      "longitude": 7.412841,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/77/ec/dd/mc-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/mc-flag.jpg"
+    },
+    "Moldova": {
+      "name": "Moldova",
+      "latitude": 47.411631,
+      "longitude": 28.369885,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/c8/25/2d/md-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/md-flag.jpg"
+    },
+    "Montenegro": {
+      "name": "Montenegro",
+      "latitude": 42.708678,
+      "longitude": 19.37439,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/ef/f3/cc/me-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/me-flag.jpg"
+    },
+    "Madagascar": {
+      "name": "Madagascar",
+      "latitude": -18.766947,
+      "longitude": 46.869107,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/c0/fa/ef/mg-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/mg-flag.jpg"
+    },
+    "Marshall Islands": {
+      "name": "Marshall Islands",
+      "latitude": 7.131474,
+      "longitude": 171.184478,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/e4/47/53/mh-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/mh-flag.jpg"
+    },
+    "Mali": {
+      "name": "Mali",
+      "latitude": 17.570692,
+      "longitude": -3.996166,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/88/08/be/ml-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ml-flag.jpg"
+    },
+    "Mongolia": {
+      "name": "Mongolia",
+      "latitude": 46.862496,
+      "longitude": 103.846656,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/96/7c/12/mn-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/mn-flag.jpg"
+    },
+    "Northern Mariana Islands": {
+      "name": "Northern Mariana Islands",
+      "latitude": 17.33083,
+      "longitude": 145.38469,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/ca/70/dd/mp-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/mp-flag.jpg"
+    },
+    "Mauritania": {
+      "name": "Mauritania",
+      "latitude": 21.00789,
+      "longitude": -10.940835,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/c8/7a/27/mr-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/mr-flag.jpg"
+    },
+    "Montserrat": {
+      "name": "Montserrat",
+      "latitude": 16.742498,
+      "longitude": -62.187366,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/a3/99/ca/ms-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ms-flag.jpg"
+    },
+    "Malta": {
+      "name": "Malta",
+      "latitude": 35.937496,
+      "longitude": 14.375416,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/58/03/8d/mt-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/mt-flag.jpg"
+    },
+    "Mauritius": {
+      "name": "Mauritius",
+      "latitude": -20.348404,
+      "longitude": 57.552152,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/83/1b/1f/mu-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/mu-flag.jpg"
+    },
+    "Maldives": {
+      "name": "Maldives",
+      "latitude": 3.202778,
+      "longitude": 73.22068,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/f9/58/15/mv-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/mv-flag.jpg"
+    },
+    "Malawi": {
+      "name": "Malawi",
+      "latitude": -13.254308,
+      "longitude": 34.301525,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/0a/c0/54/mw-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/mw-flag.jpg"
+    },
+    "Mexico": {
+      "name": "Mexico",
+      "latitude": 23.634501,
+      "longitude": -102.552784,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/d4/d8/a9/mx-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/mx-flag.jpg"
+    },
+    "Malaysia": {
+      "name": "Malaysia",
+      "latitude": 4.210484,
+      "longitude": 101.975766,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/ee/63/80/my-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/my-flag.jpg"
+    },
+    "Mozambique": {
+      "name": "Mozambique",
+      "latitude": -18.665695,
+      "longitude": 35.529562,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/c4/ec/12/mz-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/mz-flag.jpg"
+    },
+    "Namibia": {
+      "name": "Namibia",
+      "latitude": -22.95764,
+      "longitude": 18.49041,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/39/fa/23/na-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/na-flag.jpg"
+    },
+    "New Caledonia": {
+      "name": "New Caledonia",
+      "latitude": -20.904305,
+      "longitude": 165.618042,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/85/df/ed/nc-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/nc-flag.jpg"
+    },
+    "Niger": {
+      "name": "Niger",
+      "latitude": 17.607789,
+      "longitude": 8.081666,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/f4/a3/c2/ne-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ne-flag.jpg"
+    },
+    "Norfolk Island": {
+      "name": "Norfolk Island",
+      "latitude": -29.040835,
+      "longitude": 167.954712,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/23/e6/df/nf-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/nf-flag.jpg"
+    },
+    "Nigeria": {
+      "name": "Nigeria",
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/19/b6/f6/ng-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ng-flag.jpg"
+    },
+    "Nicaragua": {
+      "name": "Nicaragua",
+      "latitude": 12.865416,
+      "longitude": -85.207229,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/28/f3/8a/ni-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ni-flag.jpg"
+    },
+    "Netherlands": {
+      "name": "Netherlands",
+      "latitude": 52.132633,
+      "longitude": 5.291266,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/ad/1a/90/nl-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/nl-flag.jpg"
+    },
+    "Norway": {
+      "name": "Norway",
+      "latitude": 60.472024,
+      "longitude": 8.468946,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/67/ea/2a/no-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/no-flag.jpg"
+    },
+    "Nepal": {
+      "name": "Nepal",
+      "latitude": 28.394857,
+      "longitude": 84.124008,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/a0/8e/33/np-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/np-flag.jpg"
+    },
+    "Nauru": {
+      "name": "Nauru",
+      "latitude": -0.522778,
+      "longitude": 166.931503,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/7c/57/d9/nr-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/nr-flag.jpg"
+    },
+    "Niue": {
+      "name": "Niue",
+      "latitude": -19.054445,
+      "longitude": -169.867233,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/28/bc/af/nu-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/nu-flag.jpg"
+    },
+    "New Zealand": {
+      "name": "New Zealand",
+      "latitude": -40.900557,
+      "longitude": 174.885971,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/63/45/06/nz-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/nz-flag.jpg"
+    },
+    "Oman": {
+      "name": "Oman",
+      "latitude": 21.512583,
+      "longitude": 55.923255,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/96/4b/38/om-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/om-flag.jpg"
+    },
+    "Panama": {
+      "name": "Panama",
+      "latitude": 8.537981,
+      "longitude": -80.782127,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/83/f0/e3/pa-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/pa-flag.jpg"
+    },
+    "Peru": {
+      "name": "Peru",
+      "latitude": -9.189967,
+      "longitude": -75.015152,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/e0/4c/37/pe-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/pe-flag.jpg"
+    },
+    "French Polynesia": {
+      "name": "French Polynesia",
+      "latitude": -17.679742,
+      "longitude": -149.406843,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/83/d9/0d/pf-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/pf-flag.jpg"
+    },
+    "Papua New Guinea": {
+      "name": "Papua New Guinea",
+      "latitude": -6.314993,
+      "longitude": 143.95555,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/43/06/32/pg-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/pg-flag.jpg"
+    },
+    "Philippines": {
+      "name": "Philippines",
+      "latitude": 12.879721,
+      "longitude": 121.774017,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/c3/28/64/outline-2k.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ph-flag.jpg"
+    },
+    "Pakistan": {
+      "name": "Pakistan",
+      "latitude": 30.375321,
+      "longitude": 69.345116,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/7f/78/3a/pk-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/pk-flag.jpg"
+    },
+    "Poland": {
+      "name": "Poland",
+      "latitude": 51.919438,
+      "longitude": 19.145136,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/fb/59/f7/pl-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/pl-flag.jpg"
+    },
+    "Puerto Rico": {
+      "name": "Puerto Rico",
+      "latitude": 18.220833,
+      "longitude": -66.590149,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/e2/51/9d/pr-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/pr-flag.jpg"
+    },
+    "Portugal": {
+      "name": "Portugal",
+      "latitude": 39.399872,
+      "longitude": -8.224454,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/e8/c2/db/pt-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/pt-flag.jpg"
+    },
+    "Palau": {
+      "name": "Palau",
+      "latitude": 7.51498,
+      "longitude": 134.58252,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/da/17/2c/pw-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/pw-flag.jpg"
+    },
+    "Paraguay": {
+      "name": "Paraguay",
+      "latitude": -23.442503,
+      "longitude": -58.443832,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/62/2c/3c/py-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/py-flag.jpg"
+    },
+    "Qatar": {
+      "name": "Qatar",
+      "latitude": 25.354826,
+      "longitude": 51.183884,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/94/53/d3/qa-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/qa-flag.jpg"
+    },
+    "Romania": {
+      "name": "Romania",
+      "latitude": 45.943161,
+      "longitude": 24.96676,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/f2/47/06/ro-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ro-flag.jpg"
+    },
+    "Serbia": {
+      "name": "Serbia",
+      "latitude": 44.016521,
+      "longitude": 21.005859,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/3b/c4/e2/rs-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/rs-flag.jpg"
+    },
+    "Russia": {
+      "name": "Russia",
+      "latitude": 61.52401,
+      "longitude": 105.318756,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/f9/6b/25/ru-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ru-flag.jpg"
+    },
+    "Rwanda": {
+      "name": "Rwanda",
+      "latitude": -1.940278,
+      "longitude": 29.873888,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/24/a6/18/rw-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/rw-flag.jpg"
+    },
+    "Saudi Arabia": {
+      "name": "Saudi Arabia",
+      "latitude": 23.885942,
+      "longitude": 45.079162,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/57/e5/f5/sa-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/sa-flag.jpg"
+    },
+    "Solomon Islands": {
+      "name": "Solomon Islands",
+      "latitude": -9.64571,
+      "longitude": 160.156194,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/40/bc/20/sb-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/sb-flag.jpg"
+    },
+    "Seychelles": {
+      "name": "Seychelles",
+      "latitude": -4.679574,
+      "longitude": 55.491977,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/a2/ca/b9/sc-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/sc-flag.jpg"
+    },
+    "Sudan": {
+      "name": "Sudan",
+      "latitude": 12.862807,
+      "longitude": 30.217636,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/e8/1b/2c/sd-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/sd-flag.jpg"
+    },
+    "Sweden": {
+      "name": "Sweden",
+      "latitude": 60.128161,
+      "longitude": 18.643501,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/75/cc/3a/se-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/se-flag.jpg"
+    },
+    "Singapore": {
+      "name": "Singapore",
+      "latitude": 1.352083,
+      "longitude": 103.819836,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/18/bc/ff/sg-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/sg-flag.jpg"
+    },
+    "Slovenia": {
+      "name": "Slovenia",
+      "latitude": 46.151241,
+      "longitude": 14.995463,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/ac/79/d4/si-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/si-flag.jpg"
+    },
+    "Slovakia": {
+      "name": "Slovakia",
+      "latitude": 48.669026,
+      "longitude": 19.699024,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/51/09/34/sk-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/sk-flag.jpg"
+    },
+    "Sierra Leone": {
+      "name": "Sierra Leone",
+      "latitude": 8.460555,
+      "longitude": -11.779889,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/b4/5f/78/sl-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/sl-flag.jpg"
+    },
+    "San Marino": {
+      "name": "San Marino",
+      "latitude": 43.94236,
+      "longitude": 12.457777,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/1e/ed/1b/sm-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/sm-flag.jpg"
+    },
+    "Senegal": {
+      "name": "Senegal",
+      "latitude": 14.497401,
+      "longitude": -14.452362,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/28/53/c1/sn-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/sn-flag.jpg"
+    },
+    "Somalia": {
+      "name": "Somalia",
+      "latitude": 5.152149,
+      "longitude": 46.199616,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/98/9d/99/so-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/so-flag.jpg"
+    },
+    "Suriname": {
+      "name": "Suriname",
+      "latitude": 3.919305,
+      "longitude": -56.027783,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/d0/de/fb/sr-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/sr-flag.jpg"
+    },
+    "El Salvador": {
+      "name": "El Salvador",
+      "latitude": 13.794185,
+      "longitude": -88.89653,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/90/b9/07/sv-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/sv-flag.jpg"
+    },
+    "Swaziland": {
+      "name": "Swaziland",
+      "latitude": -26.522503,
+      "longitude": 31.465866,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/79/2b/60/sz-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/sz-flag.jpg"
+    },
+    "Chad": {
+      "name": "Chad",
+      "latitude": 15.454166,
+      "longitude": 18.732207,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/cc/e7/d6/td-04.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/td-flag.jpg"
+    },
+    "Togo": {
+      "name": "Togo",
+      "latitude": 8.619543,
+      "longitude": 0.824782,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/9d/11/72/tg-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/tg-flag.jpg"
+    },
+    "Thailand": {
+      "name": "Thailand",
+      "latitude": 15.870032,
+      "longitude": 100.992541,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/5d/3a/69/th-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/th-flag.jpg"
+    },
+    "Tajikistan": {
+      "name": "Tajikistan",
+      "latitude": 38.861034,
+      "longitude": 71.276093,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/f9/e5/50/tj-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/tj-flag.jpg"
+    },
+    "Tokelau": {
+      "name": "Tokelau",
+      "latitude": -8.967363,
+      "longitude": -171.855881,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/f4/d0/19/tk-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/tk-flag.jpg"
+    },
+    "Timor-Leste": {
+      "name": "Timor-Leste",
+      "latitude": -8.874217,
+      "longitude": 125.727539,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/ca/bd/b7/tl-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/tl-flag.jpg"
+    },
+    "Turkmenistan": {
+      "name": "Turkmenistan",
+      "latitude": 38.969719,
+      "longitude": 59.556278,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/09/90/e3/tm-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/tm-flag.jpg"
+    },
+    "Tunisia": {
+      "name": "Tunisia",
+      "latitude": 33.886917,
+      "longitude": 9.537499,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/c2/5b/24/tn-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/tn-flag.jpg"
+    },
+    "Tonga": {
+      "name": "Tonga",
+      "latitude": -21.178986,
+      "longitude": -175.198242,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/1f/5e/16/to-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/to-flag.jpg"
+    },
+    "Turkey": {
+      "name": "Turkey",
+      "latitude": 38.963745,
+      "longitude": 35.243322,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/e7/c4/c3/tr-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/tr-flag.jpg"
+    },
+    "Trinidad and Tobago": {
+      "name": "Trinidad and Tobago",
+      "latitude": 10.691803,
+      "longitude": -61.222503,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/8a/4e/0d/tt-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/tt-flag.jpg"
+    },
+    "Tuvalu": {
+      "name": "Tuvalu",
+      "latitude": -7.109535,
+      "longitude": 177.64933,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/38/07/a7/tv-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/tv-flag.jpg"
+    },
+    "Taiwan": {
+      "name": "Taiwan",
+      "latitude": 23.69781,
+      "longitude": 120.960515,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/22/0b/d5/tw-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/tw-flag.jpg"
+    },
+    "Tanzania": {
+      "name": "Tanzania",
+      "latitude": -6.369028,
+      "longitude": 34.888822,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/66/bd/df/tz-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/tz-flag.jpg"
+    },
+    "Ukraine": {
+      "name": "Ukraine",
+      "latitude": 48.379433,
+      "longitude": 31.16558,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/ff/8b/42/ua-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ua-flag.jpg"
+    },
+    "Uganda": {
+      "name": "Uganda",
+      "latitude": 1.373333,
+      "longitude": 32.290275,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/b9/75/36/ug-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ug-flag.jpg"
+    },
+    "United States": {
+      "name": "United States",
+      "latitude": 37.09024,
+      "longitude": -95.712891,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/9d/ac/e8/us-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/us-flag.jpg"
+    },
+    "Uruguay": {
+      "name": "Uruguay",
+      "latitude": -32.522779,
+      "longitude": -55.765835,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/0c/82/55/uy-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/uy-flag.jpg"
+    },
+    "Uzbekistan": {
+      "name": "Uzbekistan",
+      "latitude": 41.377491,
+      "longitude": 64.585262,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/22/32/62/uz-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/uz-flag.jpg"
+    },
+    "Venezuela": {
+      "name": "Venezuela",
+      "latitude": 6.42375,
+      "longitude": -66.58973,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/41/63/20/ve-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ve-flag.jpg"
+    },
+    "British Virgin Islands": {
+      "name": "British Virgin Islands",
+      "latitude": 18.420695,
+      "longitude": -64.639968,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/a5/5f/de/vg-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/vg-flag.jpg"
+    },
+    "Vietnam": {
+      "name": "Vietnam",
+      "latitude": 14.058324,
+      "longitude": 108.277199,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/f6/a3/59/vn-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/vn-flag.jpg"
+    },
+    "Vanuatu": {
+      "name": "Vanuatu",
+      "latitude": -15.376706,
+      "longitude": 166.959158,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/c6/d8/f2/vu-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/vu-flag.jpg"
+    },
+    "Wallis and Futuna": {
+      "name": "Wallis and Futuna",
+      "latitude": -13.768752,
+      "longitude": -177.156097,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/58/72/e6/wf-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/wf-flag.jpg"
+    },
+    "Samoa": {
+      "name": "Samoa",
+      "latitude": -13.759029,
+      "longitude": -172.104629,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/13/35/5b/ws-03.png",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ws-flag.jpg"
+    },
+    "Yemen": {
+      "name": "Yemen",
+      "latitude": 15.552727,
+      "longitude": 48.516388,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/a0/b1/22/ye-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/ye-flag.jpg"
+    },
+    "South Africa": {
+      "name": "South Africa",
+      "latitude": -30.559482,
+      "longitude": 22.937506,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/12/37/a0/za-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/za-flag.jpg"
+    },
+    "Zambia": {
+      "name": "Zambia",
+      "latitude": -13.133897,
+      "longitude": 27.849332,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/7b/2f/c2/zm-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/zm-flag.jpg"
+    },
+    "Zimbabwe": {
+      "name": "Zimbabwe",
+      "latitude": -19.015438,
+      "longitude": 29.154857,
+      "map_url": "https://www.worldatlas.com/r/w960-q80/upload/d0/14/76/zw-03.jpg",
+      "flag_url": "https://www.worldatlas.com/r/w960-q80/img/flag/zw-flag.jpg"
+    }
+  },
+  "names": [
+    "Andorra",
+    "United Arab Emirates",
+    "Afghanistan",
+    "Antigua and Barbuda",
+    "Anguilla",
+    "Albania",
+    "Armenia",
+    "Angola",
+    "Argentina",
+    "American Samoa",
+    "Austria",
+    "Australia",
+    "Aruba",
+    "Azerbaijan",
+    "Bosnia and Herzegovina",
+    "Barbados",
+    "Bangladesh",
+    "Belgium",
+    "Burkina Faso",
+    "Bulgaria",
+    "Bahrain",
+    "Burundi",
+    "Benin",
+    "Bermuda",
+    "Bolivia",
+    "Brazil",
+    "Bahamas",
+    "Bhutan",
+    "Botswana",
+    "Belarus",
+    "Belize",
+    "Canada",
+    "Central African Republic",
+    "Switzerland",
+    "Cook Islands",
+    "Chile",
+    "Cameroon",
+    "China",
+    "Colombia",
+    "Costa Rica",
+    "Cuba",
+    "Cape Verde",
+    "Cyprus",
+    "Czech Republic",
+    "Germany",
+    "Djibouti",
+    "Denmark",
+    "Dominica",
+    "Dominican Republic",
+    "Algeria",
+    "Ecuador",
+    "Estonia",
+    "Egypt",
+    "Western Sahara",
+    "Eritrea",
+    "Spain",
+    "Ethiopia",
+    "Finland",
+    "Fiji",
+    "France",
+    "Gabon",
+    "United Kingdom",
+    "Grenada",
+    "Georgia",
+    "French Guiana",
+    "Ghana",
+    "Gibraltar",
+    "Greenland",
+    "Gambia",
+    "Guinea",
+    "Guadeloupe",
+    "Equatorial Guinea",
+    "Greece",
+    "Guatemala",
+    "Guam",
+    "Guinea-Bissau",
+    "Guyana",
+    "Hong Kong",
+    "Honduras",
+    "Croatia",
+    "Haiti",
+    "Hungary",
+    "Indonesia",
+    "Ireland",
+    "India",
+    "Iraq",
+    "Iran",
+    "Iceland",
+    "Italy",
+    "Jamaica",
+    "Jordan",
+    "Japan",
+    "Kenya",
+    "Kyrgyzstan",
+    "Cambodia",
+    "Kiribati",
+    "Comoros",
+    "Saint Kitts and Nevis",
+    "North Korea",
+    "South Korea",
+    "Kuwait",
+    "Cayman Islands",
+    "Kazakhstan",
+    "Lebanon",
+    "Saint Lucia",
+    "Liechtenstein",
+    "Sri Lanka",
+    "Liberia",
+    "Lesotho",
+    "Lithuania",
+    "Luxembourg",
+    "Latvia",
+    "Libya",
+    "Morocco",
+    "Monaco",
+    "Moldova",
+    "Montenegro",
+    "Madagascar",
+    "Marshall Islands",
+    "Mali",
+    "Mongolia",
+    "Northern Mariana Islands",
+    "Mauritania",
+    "Montserrat",
+    "Malta",
+    "Mauritius",
+    "Maldives",
+    "Malawi",
+    "Mexico",
+    "Malaysia",
+    "Mozambique",
+    "Namibia",
+    "New Caledonia",
+    "Niger",
+    "Norfolk Island",
+    "Nigeria",
+    "Nicaragua",
+    "Netherlands",
+    "Norway",
+    "Nepal",
+    "Nauru",
+    "Niue",
+    "New Zealand",
+    "Oman",
+    "Panama",
+    "Peru",
+    "French Polynesia",
+    "Papua New Guinea",
+    "Philippines",
+    "Pakistan",
+    "Poland",
+    "Puerto Rico",
+    "Portugal",
+    "Palau",
+    "Paraguay",
+    "Qatar",
+    "Romania",
+    "Serbia",
+    "Russia",
+    "Rwanda",
+    "Saudi Arabia",
+    "Solomon Islands",
+    "Seychelles",
+    "Sudan",
+    "Sweden",
+    "Singapore",
+    "Slovenia",
+    "Slovakia",
+    "Sierra Leone",
+    "San Marino",
+    "Senegal",
+    "Somalia",
+    "Suriname",
+    "El Salvador",
+    "Swaziland",
+    "Chad",
+    "Togo",
+    "Thailand",
+    "Tajikistan",
+    "Tokelau",
+    "Timor-Leste",
+    "Turkmenistan",
+    "Tunisia",
+    "Tonga",
+    "Turkey",
+    "Trinidad and Tobago",
+    "Tuvalu",
+    "Taiwan",
+    "Tanzania",
+    "Ukraine",
+    "Uganda",
+    "United States",
+    "Uruguay",
+    "Uzbekistan",
+    "Venezuela",
+    "British Virgin Islands",
+    "Vietnam",
+    "Vanuatu",
+    "Wallis and Futuna",
+    "Samoa",
+    "Yemen",
+    "South Africa",
+    "Zambia",
+    "Zimbabwe"
+  ]
+}

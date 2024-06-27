@@ -28,10 +28,10 @@ function Navbar() {
       </nav>
       <Outlet />
       <nav className="lowerNavbar">
-        <Link>
+        <Link to={"/"}>
           <House size={size} />
         </Link>
-        <Link>
+        <Link to={"/feed"}>
           <TvMinimalPlay size={size} />
         </Link>
         <Link>
