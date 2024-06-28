@@ -1,32 +1,144 @@
 .GuesstheCountry {
   color: white;
-  width: 100%;
+  width: 95%;
+  margin: 6vh 2.5%;
+  overflow: hidden;
+}
+.GuesstheCountry h1 {
+  text-align: center;
 }
 
 .GuesstheCountry img {
-  max-width: 600px;
-  margin: 10px auto;
+  width: 100%;
+  margin: 10px 0px;
   object-fit: contain;
 }
-datalist {
-  position: absolute;
-  max-height: 20em;
-  border: 0 none;
-  overflow-x: hidden;
-  overflow-y: auto;
+.GuesstheCountry img.map {
+  max-height: 50vh;
+  width: 100%;
 }
 
-datalist option {
-  font-size: 0.8em;
-  padding: 0.3em 1em;
-  background-color: #ccc;
+.GuesstheCountry button {
+  height: 5vh;
+}
+.GuesstheCountry input {
+  border-radius: 10px;
+  outline: 2px solid #febf00;
+  width: 90%;
+  display: block;
+  margin: 10px auto;
+  border: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: #e2e2e2;
+  outline-offset: 3px;
+  padding: 10px 1rem;
+  transition: 0.25s;
+}
+
+.GuesstheCountry input:focus {
+  outline-offset: 5px;
+  background-color: #fff;
+}
+
+.GuesstheCountry > span {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px 0px;
+  align-items: center;
+}
+.reload-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 12px;
+  gap: 8px;
+  height: 34px;
+  width: 112px;
+  border: none;
+  background: #ccff0052;
+  border-radius: 20px;
   cursor: pointer;
 }
 
-/* active option styling */
-datalist option:hover,
-datalist option:focus {
-  color: #fff;
-  background-color: #036;
-  outline: 0 none;
+.label {
+  line-height: 20px;
+  font-size: 17px;
+  color: #fede3c;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+}
+
+.reload-button:hover {
+  background: #ccff0096;
+}
+
+.reload-button:hover .svg-icon {
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(-360deg);
+  }
+}
+
+.guess-btn {
+  background: #fbca1f;
+  font-family: inherit;
+  padding: 0em 1.3em;
+  font-weight: 900;
+  font-size: 18px;
+  border: 3px solid black;
+  border-radius: 0.4em;
+  box-shadow: 0.1em 0.1em;
+  cursor: pointer;
+}
+
+.guess-btn:hover {
+  transform: translate(-0.05em, -0.05em);
+  box-shadow: 0.15em 0.15em;
+}
+
+.guess-btn:active {
+  transform: translate(0.05em, 0.05em);
+  box-shadow: 0.05em 0.05em;
+}
+
+.GuesstheCountry table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  width: 100%;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.GuesstheCountry table thead tr {
+  background-color: #009879;
+  color: #ffffff;
+  text-align: left;
+}
+.GuesstheCountry table th,
+.GuesstheCountry table td {
+  padding: 12px 15px;
+}
+.GuesstheCountry table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.GuesstheCountry table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f332;
+}
+
+.GuesstheCountry table tbody tr:last-of-type {
+  border-bottom: 2px solid #009879;
+}
+.GuesstheCountry table tbody tr.active-row {
+  font-weight: bold;
+  color: #009879;
 }

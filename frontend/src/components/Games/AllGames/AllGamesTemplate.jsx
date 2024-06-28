@@ -16,12 +16,12 @@ function AllGamesTemplate() {
       gameList: [
         {
           name: "Guess by Map",
-          ref: "#",
+          ref: "/game/geography/map",
           img: "/guessbymap.png",
         },
         {
           name: "Guess by Flag",
-          ref: "#",
+          ref: "/game/geography/flag",
           img: "/guessbyflag.png",
         },
       ],

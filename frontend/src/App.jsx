@@ -26,11 +26,11 @@ function App() {
           <Route path="" element={<Home />} />
           <Route path="feed" element={<CubesSection />} />
           <Route path="games/:domain" element={<AllGamesTemplate />} />
+          <Route
+            path="/game/geography/:mode"
+            element={<GuessTheCountryByMap />}
+          />
         </Route>
-        <Route
-          path="/game/geography/guess-the-country-by-map"
-          element={<GuessTheCountryByMap />}
-        />
       </Routes>
     </>
   );
