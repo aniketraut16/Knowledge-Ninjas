@@ -54,9 +54,9 @@ const addQuestion = async (req, res) => {
 
 const fetchQuestion = async (req, res) => {
   try {
-    const { number } = req.params;
+    const { number, category } = req.params;
 
-    if (!isNaN(number)) {
+    if (category === "mixed") {
       // Number is a numeric value
       const questions = await Question.aggregate([
         { $sample: { size: parseInt(number, 10) } },
@@ -64,7 +64,10 @@ const fetchQuestion = async (req, res) => {
       return res.status(200).json(questions);
     } else {
       // Consider as category
-      const questions = await Question.find({ category: number });
+      const questions = await Question.aggregate([
+        { $match: { category: category } },
+        { $sample: { size: parseInt(number, 10) } },
+      ]);
       return res.status(200).json(questions);
     }
   } catch (error) {

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import "./AllGames.css";
 import { Link, useParams } from "react-router-dom";
+import "./AllGames.css";
 
 function AllGamesTemplate() {
   const [selectedDomain, setSelectedDomain] = useState(null);
@@ -37,14 +37,14 @@ function AllGamesTemplate() {
       gameList: [
         {
           name: "Quiz on Technology",
-          ref: "#",
+          ref: "/game/quiz/Technology",
           img: "/techgame.png",
         },
-        {
-          name: "Learn About Blockchain",
-          ref: "#",
-          img: "/learnblockchain.png",
-        },
+        // {
+        //   name: "Learn About Blockchain",
+        //   ref: "#",
+        //   img: "/learnblockchain.png",
+        // },
       ],
     },
     gk: {
@@ -55,7 +55,7 @@ function AllGamesTemplate() {
       gameList: [
         {
           name: "Quiz on General Knowledge",
-          ref: "#",
+          ref: "/game/quiz/General Knowledge",
           img: "/gkgame.png",
         },
       ],

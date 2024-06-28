@@ -30,7 +30,9 @@ export const TmaProvider = ({ children }) => {
   }, []);
 
   return (
-    <TmaContext.Provider value={{ user: telegramUser, isLoading, isError }}>
+    <TmaContext.Provider
+      value={{ user: telegramUser, isLoading, isError, setIsLoading }}
+    >
       {children}
     </TmaContext.Provider>
   );

@@ -7,6 +7,6 @@ Router.post("/facts/addfact", Controller.addFact);
 Router.get("/facts/:number", Controller.fetchFact);
 
 Router.post("/questions/addQuestion", Controller.addQuestion);
-Router.get("/questions/:number", Controller.fetchQuestion);
+Router.get("/questions/:number/:category", Controller.fetchQuestion);
 
 module.exports = Router;

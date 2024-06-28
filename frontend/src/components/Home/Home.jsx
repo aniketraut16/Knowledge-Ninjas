@@ -1,6 +1,9 @@
 import { Link } from "react-router-dom";
 import "./Home.css";
 import { CircleHelp, Clock, RefreshCcw } from "lucide-react";
+import { useEffect, useState } from "react";
+import { useTma } from "../../context/tmaProvider";
+import axios from "axios";
 
 function Home() {
   const domainList = [
@@ -20,13 +23,40 @@ function Home() {
       img: "/gk.png",
     },
   ];
-  const Knowledge = [
-    {
-      _id: "667b17a22b49d9acf21ed9ad",
-      fact: "A bolt of lightning contains enough energy to toast 100,000 slices of bread.",
-      category: "Weather",
-    },
-  ];
+  const apiUrl = import.meta.env.VITE_API_KEY;
+  const { setIsLoading } = useTma();
+  const [fotd, setfotd] = useState({});
+  const [randomfact, setrandomfact] = useState({});
+
+  const fetchFOTD = async () => {
+    setIsLoading(true);
+    try {
+      const responce = await axios.get(`${apiUrl}facts/fotd`);
+      setfotd(responce.data);
+    } catch (error) {
+      console.error(error);
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  const fetchRandomFact = async () => {
+    setIsLoading(true);
+    try {
+      const responce = await axios.get(`${apiUrl}facts/1`);
+      setrandomfact(responce.data[0]);
+    } catch (error) {
+      console.error(error);
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  useEffect(() => {
+    fetchFOTD();
+    fetchRandomFact();
+  }, []);
+
   return (
     <div className="Home">
       <img src="/landing.png" className="landingImg" alt="" />
@@ -44,7 +74,7 @@ function Home() {
           <Clock />
           Fact of the day !
         </span>
-        <p>{Knowledge[0].fact}</p>
+        <p>{fotd.fact}</p>
       </div>
       <div className="fotdCard">
         <span>
@@ -54,9 +84,12 @@ function Home() {
             style={{
               marginLeft: "auto",
             }}
+            onClick={() => {
+              fetchRandomFact();
+            }}
           />
         </span>
-        <p>{Knowledge[0].fact}</p>
+        <p>{randomfact.fact}</p>
       </div>
       <div className="ninjamsg">
         <img src="/landingninja.png" alt="" />
