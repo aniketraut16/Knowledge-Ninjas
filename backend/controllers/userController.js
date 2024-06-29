@@ -6,7 +6,7 @@ const saveUser = async (req, res) => {
       telegramId: req.body.telegramId,
     });
     if (existingUser) {
-      return res.status(400).send("User already exists");
+      return res.status(200).send("User already exists");
     }
     const user = new User(req.body);
     await user.save();
