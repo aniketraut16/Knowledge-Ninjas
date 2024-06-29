@@ -7,6 +7,7 @@ import {
   SquareArrowLeft,
 } from "lucide-react";
 import { useTma } from "../../context/tmaProvider";
+import { ConnectButton } from "@rainbow-me/rainbowkit";
 
 function Navbar() {
   const { user } = useTma();
@@ -25,6 +26,7 @@ function Navbar() {
             </p>
           }
         </Link>
+        <ConnectButton />
       </nav>
       <Outlet />
       <nav className="lowerNavbar">
