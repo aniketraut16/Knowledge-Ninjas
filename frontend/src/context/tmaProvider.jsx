@@ -51,6 +51,7 @@ export const TmaProvider = ({ children }) => {
       );
     } catch (error) {
       setIsError(true);
+      console.error("Error saving user to database:", error);
     } finally {
       setIsLoading(false);
     }
