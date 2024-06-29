@@ -13,9 +13,10 @@ export const TmaProvider = ({ children }) => {
 
   useEffect(() => {
     fetchTelegramUserData();
-    fetchTelegramUserfromDatabes();
   }, []);
-  const fetchTelegramUserData = () => {
+
+  const fetchTelegramUserData = async () => {
+    setIsLoading(true);
     try {
       const launchParams = retrieveLaunchParams();
       const user = launchParams?.initData?.user;
@@ -23,24 +24,23 @@ export const TmaProvider = ({ children }) => {
         throw new Error("User not found");
       }
       setTelegramUser(user);
+      await fetchTelegramUserfromDatabes(user);
     } catch (error) {
       setIsError(true);
     } finally {
       setIsLoading(false);
     }
   };
+
   const apiUrl = import.meta.env.VITE_API_KEY;
-  const fetchTelegramUserfromDatabes = async () => {
-    setIsLoading(true);
+  const fetchTelegramUserfromDatabes = async (user) => {
     try {
       await axios.post(
         `${apiUrl}user/save`,
         {
-          name: telegramUser.firstName + " " + telegramUser.lastName,
-          telegramId: telegramUser.id,
-          username:
-            telegramUser.firstName.toLowerCase() +
-            telegramUser.lastName.toLowerCase(),
+          name: user.firstName + " " + user.lastName,
+          telegramId: user.id,
+          username: user.firstName.toLowerCase() + user.lastName.toLowerCase(),
         },
         {
           headers: {
@@ -52,8 +52,6 @@ export const TmaProvider = ({ children }) => {
     } catch (error) {
       setIsError(true);
       console.error("Error saving user to database:", error);
-    } finally {
-      setIsLoading(false);
     }
   };
 
