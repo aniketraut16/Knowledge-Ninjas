@@ -33,10 +33,22 @@ export const TmaProvider = ({ children }) => {
   const fetchTelegramUserfromDatabes = async () => {
     setIsLoading(true);
     try {
-      await axios.post(`${apiUrl}user/save`, {
-        name: telegramUser.firstName + " " + telegramUser.lastName,
-        telegramId: telegramUser.id,
-      });
+      await axios.post(
+        `${apiUrl}user/save`,
+        {
+          name: telegramUser.firstName + " " + telegramUser.lastName,
+          telegramId: telegramUser.id,
+          username:
+            telegramUser.firstName.toLowerCase() +
+            telegramUser.lastName.toLowerCase(),
+        },
+        {
+          headers: {
+            "Content-Type": "application/json",
+          },
+          maxBodyLength: Infinity,
+        }
+      );
     } catch (error) {
       setIsError(true);
     } finally {
