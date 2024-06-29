@@ -15,9 +15,9 @@ function App() {
   //   return <Loader />;
   // }
 
-  // if (isError) {
-  //   return <div>Error fetching user data</div>;
-  // }
+  if (isError) {
+    return <div>Please Open app in telegram</div>;
+  }
 
   return (
     <>
